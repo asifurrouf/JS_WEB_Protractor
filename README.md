@@ -32,11 +32,8 @@ Protractor Step By Step
 
 - [Styleguide companion video](https://www.youtube.com/watch?v=-lTGnYwnEuM) - Carmen Popoviciu and Andres Dominguez introduce a Protractor styleguide at AngularConnect.
 - [Protractor Beginner Tutorials](https://www.youtube.com/watch?v=p8ENoeZENhk&list=PLhW3qG5bs-L_dgIr3hiOlnNIO8NGlXQnP) - Automation Step by Step - Raghav Pal
-- [Protractor Beginner Tutorials](https://www.youtube.com/watch?v=LzrNtbKANCg&list=PLUDwpEzHYYLt9nBh8fMrJMt2PCHnWCqN1) - Protractor for Beginners
-SDET - QA Automation Techie
-
-- [Protractor Beginner Tutorials](https://www.youtube.com/watch?v=p8ENoeZENhk&list=PLhW3qG5bs-L_dgIr3hiOlnNIO8NGlXQnP) - Automation Step by Step - Raghav Pal
-
+- [Protractor for Beginner](https://www.youtube.com/watch?v=LzrNtbKANCg&list=PLUDwpEzHYYLt9nBh8fMrJMt2PCHnWCqN1) -SDET - QA Automation Techie
+- [Protractor tutorial - LetCode](https://www.youtube.com/watch?v=Dc05Uzm-MyE&list=PL699Xf-_ilW63aUN3w4HS9IgmPYOGI2hK) - LetCode with Koushik
 
 
 ## Works with Protractor
